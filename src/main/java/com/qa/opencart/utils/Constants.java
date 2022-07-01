@@ -10,7 +10,7 @@ public class Constants {
 	public static final String ACCOUNT_PAGE_TITLE = "My Account";
 	public static final String ERROR_MESSAGE = "No match for E-Mail Address and/or Password.";
 	public static final String ACCOUNT_CREATION_SUCCESS_MSG = "Your Account Has Been Created!";
-	public static final long DEFAULT_WAIT = 7;
+	public static final long DEFAULT_WAIT = 5;
 	public static final String REGISTER_PAGE_SHEET_NAME = "Registration";
 
 	public static List<String> expectedAccountPageContentHeader() {
